@@ -71,9 +71,28 @@ Here are screenshots showing the key parts of the application:
 
 ## ⚙️ Setup Instructions
 
-### 🔧 Backend (Spring Boot)
+1. Clone the repository
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
+2. Backend Setup
+
+```bash
+cd backend
+./mvnw spring-boot:run
+```
+
+3. Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+> Ensure `.env` file includes keys for CoinGecko, Gemini, Stripe, Razorpay.
+
+---
+
+## 🙌 Credits
+
+Created with ❤️ by Rohit Dhumal.
 
