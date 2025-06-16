@@ -103,10 +103,6 @@ npm install
 npm start
 ```
 
-> Ensure `.env` file includes keys for CoinGecko, Gemini, Stripe, Razorpay.
-
----
-
 ## 🙌 Credits
 
 Created with ❤️ by Rohit Dhumal.
