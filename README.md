@@ -49,23 +49,38 @@ This project is a full-featured **E-Commerce Application** that allows users to 
 
 Here are screenshots showing the key parts of the application:
 
-### 📝 User Signup Page
-![Signup](./ecomShot/signup.png)
+### 📝 Register Page
+![register](./ecomShot/register.png)
 
-### 🔐 User Login Page
-![Login](./ecomShot/login.png)
+### 🔐 Login Page
+![login](./ecomShot/login.png)
 
 ### 🏠 Home Page with Product Listings
-![Home](./ecomShot/home.png)
+![home](./ecomShot/home.png)
 
-### 🎯 Feature Section (Filtering/Sorting)
-![Features](./ecomShot/features.png)
+### 📦 Product Details Page
+![product](./ecomShot/product.png)
 
-### 💼 Wallet and Order History
-![Wallet](./ecomShot/wallet.png)
+### 🛒 Cart Page
+![cart](./ecomShot/cart.png)
 
-### 📊 Portfolio / Orders Dashboard
-![Portfolio](./ecomShot/portfolio.png)
+### 📜 Order History Page
+![history](./ecomShot/history.png)
+
+### 👤 User Profile Page
+![profile](./ecomShot/profile.png)
+
+### 🛠️ Admin Dashboard
+![admin](./ecomShot/admin.png)
+
+### 📋 All Orders Details Page
+![Allorderdetails](./ecomShot/Allorderdetails.png)
+
+### ➕ Add Product Page (Admin)
+![productadd](./ecomShot/productadd.png)
+
+### 👥 All Users Page (Admin)
+![alluser](./ecomShot/alluser.png)
 
 ---
 
